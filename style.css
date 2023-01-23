@@ -1,0 +1,90 @@
+*{
+
+padding: 0;
+box-sizing: border-box;
+margin: 0;
+
+
+}
+
+body{
+
+    background: url(c-o-champion-kayn-splash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-width: 100vw;
+
+}
+h1{
+    color: rgb(255, 255, 255);
+    margin: 30px auto;
+}
+h2{
+    color: #faebd7;
+}
+form { 
+
+    padding: 30px;
+    display: grid;
+    border-radius: 80px 6px 90px 5px;
+    margin: 80px auto;
+    gap: 30px;
+    max-width: 400px;
+    max-height: 600px;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+form input{
+
+    color: #fff;
+    position: relative;
+    padding: 10px 30px;
+    background: none;
+    border: none;
+    border-bottom: 15px solid #fff;
+}
+
+form input:focus{
+    outline: 0;
+
+}
+form :focus::placeholder{
+
+font-size: .5rem;
+top: 1px;
+
+}
+form input::placeholder{
+    position: absolute;
+    left: 5px;
+    font-weight: bold;
+    color: #fff;
+}
+
+form button{
+    margin-top: 30px;
+    text-transform: uppercase;
+    justify-self: center;
+    padding: 10px 30px;
+    border-color: #fff;
+    border-radius: 30px;
+    background-color: rgba(0,0,0,0.6);
+    color: #fff;
+    transition: .6 ease-in-out;
+    
+}
+form button :hover{
+
+    cursor: pointer;
+    color: #000;
+    background: linear-gradient(#9c9c9c, #e4e4e4)
+}
+
+.paragrafo{
+    justify-self: start;
+    color: #fff;
+}
+
+p{
+    color: 	#00ffff;
+}

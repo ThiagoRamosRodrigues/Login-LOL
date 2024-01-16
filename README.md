@@ -1,1 +1,1 @@
-Tela login, temática League of legends. Estudo-HTML-CSS
+Bem-vindo ao projeto da Tela de Login inspirada na temática de League of Legends. Esta tela de login foi desenvolvida para capturar a essência do mundo de Runeterra, proporcionando uma experiência autêntica para os fãs do jogo.
